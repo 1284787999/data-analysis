@@ -1,6 +1,9 @@
 //request
 
-import request
+import request  AABB
 newsurl='https://translate.google.cn/#view=home&op=translate&sl=zh-CN&tl=zh-CN&text=Visualization'
 res=requests.get(newsurl)
 print(res.txt)
+
+
+print("hello world")
