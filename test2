@@ -1,0 +1,6 @@
+//request
+
+import request
+newsurl='https://translate.google.cn/#view=home&op=translate&sl=zh-CN&tl=zh-CN&text=Visualization'
+res=requests.get(newsurl)
+print(res.txt)
