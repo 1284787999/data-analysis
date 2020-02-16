@@ -1,0 +1,9 @@
+//requsets
+
+import requesets
+newsurl='http://news.qq.com/'aaaaaa
+res=requests.get(newsurl)ccccccc
+print(res.txt)bbbbbbb
+
+  ss
+sss
